@@ -14,16 +14,16 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "startapp",
-  "Banner": "startapp",
+  "Interstitial": "00",
+  "Banner": "00",
   "Native": "xxx",
-  "Rewarded": "startapp",
+  "Rewarded": "00",
   
   
-  "main_inter": true,
+  "main_inter": false,
   "os_inter": false,
   "gender_inter": false,
-  "age_inter": true,
+  "age_inter": false,
   "setup_inter": false,
   
   "rate": false,
@@ -54,16 +54,17 @@
 	},
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
+	 "title": "Pot Roast Coco: A Deliciously Savory App for Foodies",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "With Pot Roast Coco, experience the joy of pot roast.An revolutionary food app called Pot Roast Coco puts the flavors of pot roast at your fingertips. Learn how to make a variety of pot roast dishes from all around the world as you embark on a scrumptious culinary journey.",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
+	 "image": "For lovers of pot roast, endless inspiration
+",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
@@ -74,8 +75,8 @@
 	},
 	{
 	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
+	 "title": "Endless Inspiration for Pot Roast Enthusiasts",
+	 "text": "You'll never run out of inspiration for your upcoming pot roast recipe with Pot Roast Coco. This software offers a wide variety of delicious dishes to satiate every need and culinary curiosity, from classic pot roast recipes to innovative and exotic twists.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
